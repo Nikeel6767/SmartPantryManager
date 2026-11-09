@@ -58,4 +58,4 @@ Per section 3.3 of the assignment brief:
 
 1. **Clone Repository:**
    ```bash
-   git clone (https://github.com/Razarplayz1/SmartPantryManager)
+   git clone https://github.com/Nikeel6767/SmartPantryManager
